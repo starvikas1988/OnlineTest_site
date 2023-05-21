@@ -1,0 +1,17 @@
+.title{
+    color:green;
+}
+.headline{
+    text-align: center !important;
+    text-transform: uppercase;
+    color: #4CAF50;
+}
+.details{
+    margin: auto;
+    text-decoration: solid;
+    text-align: center;
+}
+
+.wrong{
+    color:red;
+}
